@@ -10,7 +10,7 @@ readme = "README.md"
 license = "MIT"
 requires-python = ">=3.10"
 authors = [
-    { name = "Your Name", email = "your@email.com" },
+    { name = "Sharik Shaikh", email = "shaikhsharik709@gmail.com" },
 ]
 keywords = [
     "events", "event-dispatcher", "observer", "pub-sub",
@@ -30,10 +30,10 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/yourname/lucid-events"
-Documentation = "https://github.com/yourname/lucid-events#readme"
-Repository = "https://github.com/yourname/lucid-events"
-Issues = "https://github.com/yourname/lucid-events/issues"
+Homepage = "https://github.com/sharik709/lucid-events"
+Documentation = "https://github.com/sharik709/lucid-events#readme"
+Repository = "https://github.com/sharik709/lucid-events"
+Issues = "https://github.com/sharik709/lucid-events/issues"
 
 [project.optional-dependencies]
 dev = ["pytest>=7.0", "pytest-asyncio>=0.21", "mypy>=1.0", "ruff>=0.1"]
